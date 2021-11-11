@@ -56,7 +56,7 @@ Remove-RebootJob -TaskName "d4d84b40-6f91-4912-8db2-73bf5f55e261"
 
 ## Built With
 
-* [Microsoft Powershell](https://code.visualstudio.com/) - The main IDE and RTE used.
+* [VS Code / MS Powershell](https://code.visualstudio.com/) - The main IDE and RTE used.
 
 ## Contributing
 
