@@ -48,7 +48,7 @@ Add-RebootJob -Execute cmd.exe -Argument "/c"
 Get-RebootJob
 ```
 
-### Get registered startup scripts
+### Remove registered startup scripts
 
 ```
 Remove-RebootJob -TaskName "d4d84b40-6f91-4912-8db2-73bf5f55e261"
