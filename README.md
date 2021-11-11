@@ -22,10 +22,10 @@ Administrative permission on your target machine.
 
 ### Deploying / Installing
 
-This powershell module should be installed using the following commands:
+This powershell module should be imported using the following command:
 
 ```
-Import-Module RebootJob.psm1
+Import-Module .\RebootJob.psm1
 ```
 
 ### Adding startup scripts
