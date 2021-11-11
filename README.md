@@ -1,4 +1,4 @@
-# SophosEnterpriseUninstaller
+# PSRunAfterReboot
 
 This project facilitates the installation of a powershell module that allows you to register commands / scripts to run on next reboot.
 
