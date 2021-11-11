@@ -36,7 +36,7 @@ Add a powershell ScriptBlock to run at next reboot (Be aware of using unsanitise
 Add-RebootJob -PSScriptBlock {Get-Childitem 'C:\'}
 ```
 
-Add a raw windows command to run at next reboot
+Add a raw windows command to run at next reboot (you can also target exe's etc)
 
 ```
 Add-RebootJob -Execute cmd.exe -Argument "/c"
